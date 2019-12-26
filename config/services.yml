@@ -1,0 +1,4 @@
+timezone:
+  v0.1:
+    api_url: http://localhost:9292/timezone/api/0.1/
+    doc_url: http://localhost:9292/timezone/doc/0.1/
